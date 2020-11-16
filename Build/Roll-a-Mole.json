@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Assignment 1",
+"productVersion": "0.1",
+"dataUrl": "Roll-a-Mole.data.unityweb",
+"wasmCodeUrl": "Roll-a-Mole.wasm.code.unityweb",
+"wasmFrameworkUrl": "Roll-a-Mole.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.3.6f1"
+}
